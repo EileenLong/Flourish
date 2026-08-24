@@ -1,3 +1,4 @@
+#### Take-home CLI assessment built in Go with MySQL. Includes manual testing of each CRUD command throughout development, with automated unit tests listed as a next step
 ### CRUD Commands
  - `deleteCustomer --customerId`    
    - delete customer and all related orders
